@@ -1,25 +1,24 @@
 {
-  "name": "fair-voting-beckend",
+  "name": "express-skeleton",
   "version": "1.0.0",
-  "description": "its a personal portfolio project",
+  "description": "its a personal project",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hitman666/MEAN_MVC_2ndTutorial.git"
+    "url": "https://github.com/fatpandaaa/express-skeleton.git"
   },
   "keywords": [
-    "MEAN",
-    "MVC"
+    "MEAN"
   ],
   "author": "nur farazi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hitman666/MEAN_MVC_2ndTutorial/issues"
+    "url": "https://github.com/fatpandaaa/express-skeleton.git"
   },
-  "homepage": "https://github.com/Hitman666/MEAN_MVC_2ndTutorial",
+  "homepage": "https://github.com/fatpandaaa/express-skeleton.git",
   "dependencies": {
     "body-parser": "^1.14.1",
     "compression": "^1.6.0",
