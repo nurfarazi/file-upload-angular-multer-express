@@ -1,0 +1,30 @@
+{
+  "name": "fair-voting-beckend",
+  "version": "1.0.0",
+  "description": "its a personal portfolio project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hitman666/MEAN_MVC_2ndTutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MVC"
+  ],
+  "author": "nur farazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hitman666/MEAN_MVC_2ndTutorial/issues"
+  },
+  "homepage": "https://github.com/Hitman666/MEAN_MVC_2ndTutorial",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "compression": "^1.6.0",
+    "ejs": "^2.0.6",
+    "express": "^4.10.7",
+    "mongoose": "^4.2.4"
+  }
+}
