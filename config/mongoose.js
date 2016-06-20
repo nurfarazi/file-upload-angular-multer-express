@@ -2,9 +2,9 @@ var config = require('./config'),
     mongoose = require('mongoose');
 
 module.exports = function () {
-    var db = mongoose.connect(config.db);
-    require('../app/models/smile.server.model');
+    //var db = mongoose.connect(config.db);
+    //require('../app/models/smile.server.model');
 
 
-    return db;
+    //return db;
 };
