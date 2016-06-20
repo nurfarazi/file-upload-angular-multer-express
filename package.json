@@ -20,10 +20,14 @@
   },
   "homepage": "https://github.com/fatpandaaa/express-skeleton.git",
   "dependencies": {
+    "aws-sdk": "^2.4.0",
     "body-parser": "^1.14.1",
     "compression": "^1.6.0",
     "ejs": "^2.0.6",
     "express": "^4.10.7",
-    "mongoose": "^4.2.4"
+    "mongoose": "^4.2.4",
+    "multer": "^1.1.0",
+    "multer-s3": "^2.3.2",
+    "multer-storage-s3-public": "^1.0.0"
   }
 }
