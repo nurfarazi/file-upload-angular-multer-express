@@ -3,9 +3,3 @@ exports.render = function (req, res) {
         title: 'voting'
     });
 };
-
-exports.renderresult = function (req, res) {
-    res.render('votingresult', {
-        title: 'result'
-    });
-};

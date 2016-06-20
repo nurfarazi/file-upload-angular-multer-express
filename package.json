@@ -1,5 +1,5 @@
 {
-  "name": "express-skeleton",
+  "name": "file-upload-angular-multer-express",
   "version": "1.0.0",
   "description": "its a personal project",
   "main": "server.js",
