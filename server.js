@@ -10,7 +10,7 @@ var bodyParser = require('body-parser');
 
 
 var app = express();
-var db = mongoose();
+//var db = mongoose();
 
 var bodyParser = require('body-parser');
 
