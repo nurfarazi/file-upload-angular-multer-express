@@ -12,4 +12,4 @@ after cloning just run
 it will run the app
 ... to edit the client side go to index.ejs
 
-all the controller function will be at index.controller.js
+all the controller function will be at index.server.routes.js
